@@ -818,6 +818,7 @@ const auto g_Buffs = std::to_array<Buff>({
     //{ 48477, "Empowered (Light Thief)" }, // https://wiki.guildwars2.com/images/0/08/Soul_Digestion.png
     //// Dhuum
     { "Dhuum" },
+    { 48042, "Soul Shackle (effect)" }, // https://wiki.guildwars2.com/images/8/89/Soul_Shackle_%28effect%29.png
     { 46950, "Fractured Spirit" },    // https://wiki.guildwars2.com/images/c/c3/Fractured_Spirit.png
     { 47476, "Residual Affliction" }, // https://wiki.guildwars2.com/images/1/12/Residual_Affliction.png
     { 47646, "Arcing Affliction" },   // https://wiki.guildwars2.com/images/f/f0/Arcing_Affliction.png
